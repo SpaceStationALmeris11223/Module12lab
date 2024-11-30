@@ -5,12 +5,12 @@
       "PackagePath": "staticwebassets/RubberDuckStore.bundle.scp.css"
     },
     {
-      "Id": "/workspaces/RubberDuckStore/RubberDuckStore/wwwroot/Images/classic_debugger.jpg",
-      "PackagePath": "staticwebassets/Images/classic_debugger.jpg"
+      "Id": "/workspaces/RubberDuckStore/RubberDuckStore/wwwroot/Images/Classic_Debugger.jpg",
+      "PackagePath": "staticwebassets/Images/Classic_Debugger.jpg"
     },
     {
-      "Id": "/workspaces/RubberDuckStore/RubberDuckStore/wwwroot/Images/coder_duck.jpg",
-      "PackagePath": "staticwebassets/Images/coder_duck.jpg"
+      "Id": "/workspaces/RubberDuckStore/RubberDuckStore/wwwroot/Images/Coder_Duck.jpg",
+      "PackagePath": "staticwebassets/Images/Coder_Duck.jpg"
     },
     {
       "Id": "/workspaces/RubberDuckStore/RubberDuckStore/wwwroot/css/site.css",

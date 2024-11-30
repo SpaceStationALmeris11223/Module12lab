@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RubberDuckStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63b7ecf32d7d345622919bcfbf25e879466ba187")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e1b5e02a1a3482d1be7126cc3d94714f69e1b21")]
 [assembly: System.Reflection.AssemblyProductAttribute("RubberDuckStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RubberDuckStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
